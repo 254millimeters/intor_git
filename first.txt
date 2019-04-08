@@ -4,3 +4,7 @@
 3.ローカルリポジトリに格納する: git commit
 4.リモートリポジトリに格納する:git push
 
+git add
+git commit
+git status
+
