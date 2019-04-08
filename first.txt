@@ -9,3 +9,7 @@ git commit
 git status
 git rm
 git status
+git log -oneline
+git log -p
+git log -n 3
+git diff
